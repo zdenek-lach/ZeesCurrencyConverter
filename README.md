@@ -4,7 +4,7 @@ Zee's Currency Converter is a Chrome extension that unintrusively converts price
 
 ## Features
 
-- Converts prices on Otomoto and AutoScout24 websites.
+- Converts prices on Otomoto.pl <!-- and AutoScout24 websites. -->
 - Supports multiple currencies: CZK, EUR, USD, PLN, GBP.
 - Dynamically updates prices without refreshing the page.
 <!-- - Displays toast notifications for conversion status. TODO -->

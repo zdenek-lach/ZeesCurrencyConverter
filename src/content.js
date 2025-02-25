@@ -4,7 +4,8 @@ if (document.readyState !== 'loading') {
 } else {
   document.addEventListener('DOMContentLoaded', function () {
     console.log('The page is taking forever to load..');
-    ZeeCurrencyConverter();
+    console.log('Retrying in 5 seconds.');
+    setTimeout(ZeeCurrencyConverter, 5000);
   });
 }
 
